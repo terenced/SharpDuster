@@ -1,0 +1,132 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Extensions.cs" caret="229" fromTop="10" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:FileSanitizer.cs" caret="483" fromTop="19" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="4374" fromTop="30" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:SharpDuster.bat" caret="97" fromTop="0" />
+      <File id="B3524F5A-8001-4006-B94D-BCF0011ACF1E/f:FileSanitizerTests.cs" caret="2761" fromTop="49" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="B3524F5A-8001-4006-B94D-BCF0011ACF1E/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:app.config" caret="0" fromTop="0" />
+      <File id="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2/f:FileSanitizerTests.cs" caret="879" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:FileSanitizer.cs" caret="905" fromTop="31" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:FileSanitizer.cs" caret="685" fromTop="23" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:FileSanitizer.cs" caret="1066" fromTop="35" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:FileSanitizer.cs" caret="1440" fromTop="37" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="1573" fromTop="43" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="236" fromTop="6" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="1284" fromTop="29" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="314" fromTop="11" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="516" fromTop="17" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="1048" fromTop="38" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="1454" fromTop="48" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="2573" fromTop="31" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="5750" fromTop="41" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="5941" fromTop="36" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="2231" fromTop="36" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="926" fromTop="23" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:FileSanitizer.cs" caret="127" fromTop="4" />
+      <File id="B3524F5A-8001-4006-B94D-BCF0011ACF1E/f:FileSanitizerTests.cs" caret="348" fromTop="8" />
+      <File id="B3524F5A-8001-4006-B94D-BCF0011ACF1E/f:FileSanitizerTests.cs" caret="899" fromTop="22" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="4406" fromTop="37" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="5105" fromTop="54" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="4740" fromTop="46" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="3946" fromTop="21" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:Duster.cs" caret="4866" fromTop="15" />
+      <File id="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB/f:SharpDuster.bat" caret="97" fromTop="0" />
+      <File id="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2/f:FileSanitizerTests.cs" caret="2692" fromTop="52" />
+      <File id="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2/f:FileSanitizerTests.cs" caret="242" fromTop="14" />
+      <File id="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2/f:FileSanitizerTests.cs" caret="612" fromTop="22" />
+      <File id="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2/f:FileSanitizerTests.cs" caret="13" fromTop="0" />
+      <File id="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2/f:FileSanitizerTests.cs" caret="879" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="14" />
+      <Item value="_skipCount" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="static" priority="4" />
+      <Item value="var" priority="3" />
+      <Item value="FileInfo`0" priority="0" />
+      <Item value="GroupCollection`0" priority="0" />
+      <Item value="t" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="s_mode" priority="0" />
+      <Item value="Preview" priority="0" />
+      <Item value="ExMode`0" priority="3" />
+      <Item value="_src" priority="0" />
+      <Item value="_dest" priority="0" />
+      <Item value="ParseArgs`0" priority="0" />
+      <Item value="args" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="2" />
+      <Item value="Run`0" priority="0" />
+      <Item value="break" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="OptionSet`0" priority="0" />
+      <Item value="FileSanitizerTests`0" priority="0" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="BinaryReader`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="12" />
+      <Item value="Write`0" priority="0" />
+      <Item value="Out" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrWhiteSpace`0" priority="2" />
+      <Item value="Format`0" priority="1" />
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Group">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Groups" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SharpDuster.ExMode">
+      <Item value="Preview" priority="0" />
+      <Item value="Normal" priority="0" />
+      <Item value="Help" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NDesk.Options.OptionSet">
+      <Item value="WriteOptionDescriptions`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsNull`0" priority="0" />
+      <Item value="IsTrue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SharpDuster.FileSanitizer">
+      <Item value="FindTitle`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

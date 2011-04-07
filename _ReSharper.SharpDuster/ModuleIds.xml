@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="0D56F3C3-FA2E-4A67-A981-0C6CC29D8AEB" ModuleId="SharpDuster" />
+  <Module PersistentId="B3524F5A-8001-4006-B94D-BCF0011ACF1E" ModuleId="SharpDusterTests" />
+  <Module PersistentId="A8DE1E41-2045-4B2B-9D33-59BA1578D7D2" ModuleId="SharpDuster.Tests" />
+</Modules>

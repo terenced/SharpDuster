@@ -1,0 +1,263 @@
+2011-03-24 11:08:12.1808 - Error - Unable to find destination folder 'D:\temp\TV\'. Please make sure it exists 
+2011-03-24 16:37:35.7880 - Info - ** Preview mode: no files will be altered **
+ 
+2011-03-24 16:37:35.8806 - Info - 
+
+- Parsed 0 of 12 files found, skipped 12 - 
+2011-03-24 16:44:32.8908 - Info - ** Preview mode: no files will be altered **
+ 
+2011-03-24 16:44:32.9613 - Info - 
+
+- Parsed 0 of 13 files found, skipped 13 - 
+2011-03-24 16:47:47.4145 - Info - ** Preview mode: no files will be altered **
+ 
+2011-03-24 16:47:47.4823 - Info - 
+
+- Parsed 0 of 14 files found, skipped 14 - 
+2011-03-24 16:50:44.3242 - Info - ** Preview mode: no files will be altered **
+ 
+2011-03-24 16:51:10.9000 - Info - 
+
+- Parsed 0 of 14 files found, skipped 14 - 
+2011-03-24 16:56:11.0759 - Info - ** Preview mode: no files will be altered **
+ 
+2011-03-24 16:56:15.5935 - Info - 
+
+- Parsed 0 of 14 files found, skipped 14 - 
+2011-03-24 17:01:50.2656 - Info - ** Preview mode: no files will be altered **
+ 
+2011-03-24 17:01:50.4433 - Info - 
+
+- Parsed 0 of 14 files found, skipped 14 - 
+2011-04-06 19:23:59.6352 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:23:59.7210 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:24:24.0810 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:24:24.1400 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:24:34.6550 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:24:34.7185 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:24:41.9652 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:24:42.0212 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:24:51.2887 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:24:51.3516 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:25:13.0133 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:25:13.1235 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:25:17.2597 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:25:17.3349 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:25:49.6014 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:25:49.7249 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:26:00.7582 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:26:00.8334 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:26:11.1807 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:26:11.2657 - Info - 
+
+- Parsed 0 of 3 files found, skipped 3 - 
+2011-04-06 19:30:20.3170 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:30:20.6126 - Info - Dusting divxfactory-scoobya.avi 
+2011-04-06 19:30:20.6715 - Error - Something went wrong! System.NullReferenceException: Object reference not set to an instance of an object
+  at SharpDuster.FileSanitizer.Sanitize (System.String filename) [0x0002f] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/FileSanitizer.cs:54 
+  at SharpDuster.Duster.DustFile (System.IO.FileInfo file) [0x00061] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:204 
+  at SharpDuster.Duster.Run () [0x00079] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:159 
+2011-04-06 19:30:20.6778 - Info - 
+
+- Parsed 0 of 280 files found, skipped 18 - 
+2011-04-06 19:35:31.9834 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:35:32.5423 - Info - Dusting divxfactory-scoobya.avi 
+2011-04-06 19:35:32.5540 - Error - Something went wrong! System.NullReferenceException: Object reference not set to an instance of an object
+  at SharpDuster.FileSanitizer.Sanitize (System.String filename) [0x00036] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/FileSanitizer.cs:55 
+  at SharpDuster.Duster.DustFile (System.IO.FileInfo file) [0x00061] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:208 
+  at SharpDuster.Duster.Run () [0x0009b] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:163 
+2011-04-06 19:35:32.5872 - Info - 
+
+- Parsed 0 of 66 files found, skipped 1 - 
+2011-04-06 19:38:27.1785 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:38:27.4481 - Info - Dusting Last Night 2010 720p BRRip x264 Feel-Free.mp4 
+2011-04-06 19:39:54.6395 - Error - Something went wrong! System.NullReferenceException: Object reference not set to an instance of an object
+  at SharpDuster.FileSanitizer.Sanitize (System.String filename) [0x00036] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/FileSanitizer.cs:55 
+  at SharpDuster.Duster.DustFile (System.IO.FileInfo file) [0x00026] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:203 
+  at SharpDuster.Duster.Run () [0x0009b] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:163 
+2011-04-06 19:39:54.6460 - Info - 
+
+- Parsed 0 of 66 files found, skipped 0 - 
+2011-04-06 19:40:23.8391 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:40:23.9977 - Info - Dusting Last Night 2010 720p BRRip x264 Feel-Free.mp4 
+2011-04-06 19:41:18.7540 - Error - Something went wrong! System.NullReferenceException: Object reference not set to an instance of an object
+  at SharpDuster.FileSanitizer.Sanitize (System.String filename) [0x00036] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/FileSanitizer.cs:55 
+  at SharpDuster.Duster.DustFile (System.IO.FileInfo file) [0x00026] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:203 
+  at SharpDuster.Duster.Run () [0x0009b] in /Users/terry/Dropbox/Code/SharpDuster/SharpDuster/Duster.cs:163 
+2011-04-06 19:41:18.7613 - Info - 
+
+- Parsed 0 of 66 files found, skipped 0 - 
+2011-04-06 19:43:05.7825 - Info - ** Preview mode: no files will be altered **
+ 
+2011-04-06 19:43:07.0836 - Info - Dusting Last Night 2010 720p BRRip x264 Feel-Free.mp4 
+2011-04-06 19:43:07.4441 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:07.4454 - Info - Dusting divxfactory-scoobya.avi 
+2011-04-06 19:43:07.4545 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:07.4634 - Info - Dusting divxfactory-scoobyb.avi 
+2011-04-06 19:43:07.4634 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:07.4668 - Info - Dusting caprice_francesca_double_the_pleasure_1080.mov 
+2011-04-06 19:43:07.7631 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:07.8203 - Info - Dusting x-art_caprice_leila_tropical_fantasy_1080.mov 
+2011-04-06 19:43:08.7820 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.7830 - Info - Dusting x-art_gigi_girlfriends_back_1080.mov 
+2011-04-06 19:43:08.7830 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.7830 - Info - Dusting x-art_hayden_gigi_play_time_1080.mov 
+2011-04-06 19:43:08.7830 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.7830 - Info - Dusting x-art_tiffany_seaside_fantasy_1080.mov 
+2011-04-06 19:43:08.7840 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.7840 - Info - Dusting leila_faye_awesome_threesome_1080.mov 
+2011-04-06 19:43:08.7856 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.7865 - Info - Dusting x-art_georgia_francesca_my_eden_1920x1080.mov 
+2011-04-06 19:43:08.7882 - Info - 	.S1920E1080.mov 
+2011-04-06 19:43:08.7882 - Info - 	... 
+2011-04-06 19:43:08.7891 - Info - Dusting x-art_katrina_watch_me_cum_ii_1920x1080.mov 
+2011-04-06 19:43:08.7891 - Info - 	.S1920E1080.mov 
+2011-04-06 19:43:08.7891 - Info - 	... 
+2011-04-06 19:43:08.7891 - Info - Dusting x-art_carla_the_girl_in_my_shower_1920x1080.mov 
+2011-04-06 19:43:08.7900 - Info - 	.S1920E1080.mov 
+2011-04-06 19:43:08.8281 - Info - 	... 
+2011-04-06 19:43:08.8281 - Info - Dusting x-art_kat_back_in_black_1920x1080.mov 
+2011-04-06 19:43:08.8414 - Info - 	.S1920E1080.mov 
+2011-04-06 19:43:08.8414 - Info - 	... 
+2011-04-06 19:43:08.8421 - Info - Dusting x-art_kat_translucence_1920x1080.mov 
+2011-04-06 19:43:08.8421 - Info - 	.S1920E1080.mov 
+2011-04-06 19:43:08.8440 - Info - 	... 
+2011-04-06 19:43:08.9095 - Info - Dusting x-art_kat_1969_hd.mov 
+2011-04-06 19:43:08.9120 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9308 - Info - Dusting x-art_lilly_angels_lips_devils_kiss_hd.mov 
+2011-04-06 19:43:08.9486 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9490 - Info - Dusting x-art_lilly_sweet_dreams_hd.mov 
+2011-04-06 19:43:08.9490 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9514 - Info - Dusting x-art_stevie_trouble_hd.mov 
+2011-04-06 19:43:08.9514 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9526 - Info - Dusting x-art_carlie_i_saw_an_angel_hd.mov 
+2011-04-06 19:43:08.9526 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9532 - Info - Dusting x-art_megan_morning_bath_hd.mov 
+2011-04-06 19:43:08.9546 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9552 - Info - Dusting x-art_carlie_she_cums_in_colors_hd.mov 
+2011-04-06 19:43:08.9552 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9552 - Info - Dusting x-art_megan_bedtime_beauty_hd.mov 
+2011-04-06 19:43:08.9552 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9562 - Info - Dusting x-art_megan_dreaming_of_you_hd.mov 
+2011-04-06 19:43:08.9562 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9562 - Info - Dusting x-art_carlie_big_toy_orgasm_hd.mov 
+2011-04-06 19:43:08.9562 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9595 - Info - Dusting x-art_carlie_beautiful_blowjob_hd.mov 
+2011-04-06 19:43:08.9595 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9602 - Info - Dusting x-art_capri_the_day_we_met_hd.mov 
+2011-04-06 19:43:08.9602 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9602 - Info - Dusting x-art_francesca_sunset_in_malibu_hd.mov 
+2011-04-06 19:43:08.9610 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9610 - Info - Dusting x-art_francesca_capri_just_the_two_of_us_hd.mov 
+2011-04-06 19:43:08.9610 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9622 - Info - Dusting x-art_carlie_misty_morning_hd.mov 
+2011-04-06 19:43:08.9635 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9640 - Info - Dusting x-art_francesca_angelic_hd.mov 
+2011-04-06 19:43:08.9640 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9640 - Info - Dusting x-art_leila_sex_with_passion_hd.mov 
+2011-04-06 19:43:08.9640 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9650 - Info - Dusting x-art_reina_patsy_girls_night_hd.mov 
+2011-04-06 19:43:08.9650 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9650 - Info - Dusting x-art_carlie_leila_strawberries_and_wine_hd.mov 
+2011-04-06 19:43:08.9650 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9672 - Info - Dusting x-art_francesca_capri_malibu_daze_hd.mov 
+2011-04-06 19:43:08.9672 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9672 - Info - Dusting x-art_francesca_breanne_girls_with_glasses_hd.mov 
+2011-04-06 19:43:08.9672 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9680 - Info - Dusting x-art_carlie_leila_intimo_hd.mov 
+2011-04-06 19:43:08.9680 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9680 - Info - Dusting x-art_mina_beauty_and_the_beast_hd.mov 
+2011-04-06 19:43:08.9680 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9690 - Info - Dusting x-art_mina_minas_fantasy_hd.mov 
+2011-04-06 19:43:08.9710 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9731 - Info - Dusting x-art_katka_cum_like_crazy_hd.mov 
+2011-04-06 19:43:08.9731 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9740 - Info - Dusting x-art_silvie_a_morning_to_remember_hd.mov 
+2011-04-06 19:43:08.9740 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9740 - Info - Dusting x-art_susie_cream_dream_hd.mov 
+2011-04-06 19:43:08.9750 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9760 - Info - Dusting x-art_monique_playtime_for_pussy_hd.mov 
+2011-04-06 19:43:08.9760 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9775 - Info - Dusting x-art_katka_sweet_surprise_hd.mov 
+2011-04-06 19:43:08.9780 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9780 - Info - Dusting x-art_monique_love_to_fuck_hd.mov 
+2011-04-06 19:43:08.9780 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9780 - Info - Dusting x-art_kristen_pink_on_the_inside_hd.mov 
+2011-04-06 19:43:08.9790 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9790 - Info - Dusting x-art_kristen_girl_next_door_hd.mov 
+2011-04-06 19:43:08.9790 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9790 - Info - Dusting x-art_sasha_d_between_the_sheets_hd.mov 
+2011-04-06 19:43:08.9827 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9830 - Info - Dusting x-art_francesca_could_have_loved_you_hd.mov 
+2011-04-06 19:43:08.9830 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9830 - Info - Dusting x-art_carlie_sunset_hd.mov 
+2011-04-06 19:43:08.9840 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9840 - Info - Dusting x-art_eufrat_waking_up_in_a_dream_hd.mov 
+2011-04-06 19:43:08.9840 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9853 - Info - Dusting x-art_carlie_cum_closer_hd.mov 
+2011-04-06 19:43:08.9853 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9890 - Info - Dusting x-art_tori_torrid_love_hd.mov 
+2011-04-06 19:43:08.9930 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9947 - Info - Dusting x-art_star_sex_on_a_summer_afternoon_hd.mov 
+2011-04-06 19:43:08.9970 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9970 - Info - Dusting x-art_tori_the_endless_orgasm_hd.mov 
+2011-04-06 19:43:08.9980 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9980 - Info - Dusting x-art_francesca_flesh_for_fantasy_hd.mov 
+2011-04-06 19:43:08.9980 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:08.9991 - Info - Dusting x-art_jennifer_naughty_angel_hd.mov 
+2011-04-06 19:43:09.0021 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0021 - Info - Dusting x-art_francesca_emma_daddys_office_hd.mov 
+2011-04-06 19:43:09.0030 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0051 - Info - Dusting x-art_ruby_summer_love_hd.mov 
+2011-04-06 19:43:09.0051 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0067 - Info - Dusting x-art_jennifer_ruby_wet_and_wild_hd.mov 
+2011-04-06 19:43:09.0070 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0070 - Info - Dusting x-art_emma_private_tutor_hd.mov 
+2011-04-06 19:43:09.0139 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0155 - Info - Dusting x-art_emma_pink_like_sugar_hd.mov 
+2011-04-06 19:43:09.0161 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0161 - Info - Dusting x-art_eufrat_after_party_hd.mov 
+2011-04-06 19:43:09.0170 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0170 - Info - Dusting x-art_caprice_hot_bath_hd.mov 
+2011-04-06 19:43:09.0170 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0181 - Info - Dusting x-art_leila_sex_on_the_beach_hd.mov 
+2011-04-06 19:43:09.0181 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0190 - Info - Dusting x-art_francesca_caribbean_christmas_hd.mov 
+2011-04-06 19:43:09.0221 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0221 - Info - Dusting x-art_tiffany_teenagers_in_love_1080.mov 
+2011-04-06 19:43:09.0221 - Info - *** Skipping: unable to sanitize 
+2011-04-06 19:43:09.0263 - Info - 
+
+- Parsed 0 of 66 files found, skipped 61 - 

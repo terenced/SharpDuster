@@ -1,0 +1,5 @@
+/Users/terry/Dropbox/Code/SharpDuster/SharpDuster/bin/Release/NLog.config
+/Users/terry/Dropbox/Code/SharpDuster/SharpDuster/bin/Release/SharpDuster.exe.mdb
+/Users/terry/Dropbox/Code/SharpDuster/SharpDuster/bin/Release/SharpDuster.exe
+/Users/terry/Dropbox/Code/SharpDuster/SharpDuster/obj/x86/Release/SharpDuster.exe
+/Users/terry/Dropbox/Code/SharpDuster/SharpDuster/obj/x86/Release/SharpDuster.exe.mdb

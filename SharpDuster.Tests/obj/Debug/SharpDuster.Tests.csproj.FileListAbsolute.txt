@@ -1,0 +1,12 @@
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\NLog.config
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\SharpDuster.Tests.dll
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\SharpDuster.Tests.pdb
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\nunit.framework.dll
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\SharpDuster.exe
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\NLog.dll
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\SharpDuster.pdb
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\nunit.framework.xml
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\bin\Debug\NLog.xml
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\obj\Debug\SharpDuster.Tests.dll
+C:\Users\tdellino\Dropbox\Code\SharpDuster\SharpDuster.Tests\obj\Debug\SharpDuster.Tests.pdb

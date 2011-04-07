@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharpDuster/Duster.cs">
+    <Files>
+      <File FileName="SharpDuster.Tests/FileSanitizerTests.cs" Line="2" Column="7" />
+      <File FileName="SharpDuster/Duster.cs" Line="18" Column="24" />
+      <File FileName="SharpDuster/FileSanitizer.cs" Line="60" Column="63" />
+      <File FileName="SharpDuster/Extensions.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

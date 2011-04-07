@@ -1,0 +1,1 @@
+﻿C:\Users\tdellino\Dropbox\Public\SharpDuster\SharpDuster.exe -s=D:\temp\Downloads\ -d=D:\temp\TV\
