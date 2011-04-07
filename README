@@ -3,6 +3,7 @@ Contributors: terenced
 Requires: .NET 4.0, Mono 2.10
 
 SharpDuster is a TV show file renamer.
+Helping the world rename TV shows one file at a time!
 
 == Description ==
 SharpDuster is a simple command-line tool for rename and organizing TV show files.
